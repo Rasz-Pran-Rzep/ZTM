@@ -7,3 +7,4 @@ zmiana od rzep 2;
 2;
 2;
 2;
+zmiana od rasz 1;
