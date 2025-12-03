@@ -1,2 +1,5 @@
 # ZTM
-Task 1
+Zmiana numer 1;
+1;
+1;
+1;
