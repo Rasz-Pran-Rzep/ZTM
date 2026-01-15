@@ -23,6 +23,12 @@ public class SampleTest {
         int y = cal.power(3);
         assert y != 9;
     }
+
+    @Test
+    void testDlaAutomatyzacji() {
+        assert true;
+    }
+
 }
 
 
