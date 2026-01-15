@@ -24,11 +24,6 @@ public class SampleTest {
         assert y != 9;
     }
 
-    @Test
-    void testDlaAutomatyzacji() {
-        assert true;
-    }
-
 }
 
 
