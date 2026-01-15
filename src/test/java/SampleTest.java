@@ -24,3 +24,5 @@ public class SampleTest {
         assert y != 10;
     }
 }
+
+git add .
