@@ -21,7 +21,7 @@ public class SampleTest {
     void test5(){
         Calculator cal = new Calculator();
         int y = cal.power(3);
-        assert y != 10;
+        assert y != 9;
     }
 }
 
