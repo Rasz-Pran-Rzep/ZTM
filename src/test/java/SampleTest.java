@@ -14,7 +14,7 @@ public class SampleTest {
     void test4(){
         Calculator cal = new Calculator();
         int y = cal.power(5);
-        assert y == 25;
+        assert y == 12;
     }
 
     @Test
