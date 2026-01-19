@@ -7,3 +7,6 @@ zmiana od rzep 2;
 2;
 2;
 2;
+
+
+asfs
