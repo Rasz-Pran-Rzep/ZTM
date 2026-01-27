@@ -13,7 +13,7 @@ public class SampleTest {
     @Test
     void test4(){
         Calculator cal = new Calculator();
-        int y = cal.power(5);
+        int y = cal.power(3);
         assert y == 25;
     }
 
